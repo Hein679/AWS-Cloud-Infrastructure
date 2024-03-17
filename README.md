@@ -1,4 +1,4 @@
-# Scalable infrastructure using AWS Cloud
+# Scalable Infrastructure using AWS Cloud
 
 Link to [diagram](https://miro.com/app/board/uXjVNhM6xNM=/?share_link_id=567410157721)
 
